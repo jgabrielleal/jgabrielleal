@@ -8,7 +8,7 @@ Atualmente trabalho com soluções para ambientes de produção e desenvolvo pro
 ## Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=php,laravel,typescript,javascript,nodejs,react,nextjs,python,postgres,mysql,docker,git" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,javascript,nodejs,react,svelte,python,postgres,mysql,docker,git" />
 </p>
 
 ## Atualmente Explorando
