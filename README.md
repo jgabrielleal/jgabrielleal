@@ -19,9 +19,10 @@ Atualmente trabalho com soluções para ambientes de produção e desenvolvo pro
 
 ## Projetos em Destaque
 
-### 🎧 Akiba
+### 🎧 Akiba - Plataforma de Conteúdo, Rádio e Entreterimento Otaku
 Portal de entretenimento voltado à conteúdo otaku e entreterimento, reunindo rádio online, notícias, enquetes, cobertura de eventos e conteúdo para a comunidade.
 🔗 https://akiba.com.br
+🐙 https://github.com/ojgabrielleal/akiba
 
 ## Conecte-se
 
