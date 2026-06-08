@@ -20,7 +20,7 @@ Atualmente trabalho com soluções para ambientes de produção e desenvolvo pro
 ## Projetos em Destaque
 
 ### 🎧 Akiba
-Portal de entretenimento voltado à cultura geek e asiática, reunindo rádio online, notícias, enquetes, cobertura de eventos e conteúdo para a comunidade.
+Portal de entretenimento voltado à conteúdo otaku e entreterimento, reunindo rádio online, notícias, enquetes, cobertura de eventos e conteúdo para a comunidade.
 🔗 https://akiba.com.br
 
 ## Conecte-se
